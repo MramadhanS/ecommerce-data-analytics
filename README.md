@@ -3,7 +3,7 @@
 
 > Analisis performa penjualan, perilaku customer, dan efisiensi operasional pada platform e-commerce berbasis data transaksi nyata, untuk menghasilkan rekomendasi bisnis yang actionable.
 
-**Tools/Skills:** SQL (PostgreSQL) • Data Cleaning • Data Modeling • Star Schema • DAX • Power BI • Microsoft Excel • Power Query • Pivot Table • Data Validation • Window Function • Business Intelligence • Dashboard Design • Data Storytelling
+**Tools/Skills:** SQL (PostgreSQL) • Data Cleaning • Data Modeling • Star Schema • DAX • Power BI • Microsoft Excel • Power Query • Pivot Table • Data Validation • Window Function • CTE • Business Intelligence • Dashboard Design • Data Storytelling
 
 ---
 
@@ -270,5 +270,3 @@ Data Analyst | Palembang, Indonesia
 📧 [ramadhansyaputra115@gmail.com] · 🔗 [www.linkedin.com/in/mramadhans] · 💻 [[GitHub](https://github.com/MramadhanS)]
 
 ---
-
-*Project ini dibuat sebagai bagian dari portofolio data analyst, dengan fokus utama pada proses berpikir dan validasi data — bukan sekadar menghasilkan dashboard, tapi memastikan setiap angka di dalamnya bisa dipertanggungjawabkan.*
